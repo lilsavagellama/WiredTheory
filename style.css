@@ -4,3 +4,6 @@ header {
 #Sitetitle{
   color: white;
 }
+section{
+  background: linear-gradient(to right, red , yellow);
+}
