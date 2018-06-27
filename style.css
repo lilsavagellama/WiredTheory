@@ -3,19 +3,23 @@ header{
   background-repeat: no-repeat;
     background-size: 1500px 700px
 }
+
 nav{
   background: linear-gradient(to right,
   red , yellow , blue);
 }
-}
+
 #Sitetitle{
   color: White;
 }
+
 section{
   background: linear-gradient(to right, red , yellow , blue);
 }
+
 hr {
     height: 15px;
     // background-color: red;
     background-image: linear-gradient(90deg, red, yellow , blue);
+}
  
