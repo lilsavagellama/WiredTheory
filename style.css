@@ -1,9 +1,21 @@
-header {
-  background-image: url("https://media.gettyimages.com/xc/183315477-abstract-red-dynamic-lines-backgrounds-textures.jpg?v=1&c=IWSAsset&k=2&d=BF73B9D673DE700BFA8B514772993DC3F6B1C2DB1913134FBAF150E8E0D27FCB&b=OQ==");
+header{
+  background-image: url("https://cdn.shopify.com/s/files/1/0504/6041/products/D110_large.png?v=1504661004");
+  background-repeat: no-repeat;
+    background-size: 1500px 700px
+}
+nav{
+  background: linear-gradient(to right,
+  red , yellow , blue);
+}
 }
 #Sitetitle{
-  color: white;
+  color: White;
 }
 section{
-  background: linear-gradient(to right, red , yellow);
+  background: linear-gradient(to right, red , yellow , blue);
 }
+hr {
+    height: 15px;
+    // background-color: red;
+    background-image: linear-gradient(90deg, red, yellow , blue);
+ 
