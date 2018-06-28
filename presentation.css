@@ -1,0 +1,30 @@
+header{
+  background-image: url("https://i.pinimg.com/originals/ba/c3/69/bac3693448433268b2a551f35f2d20eb.jpg");
+  background-repeat: no-repeat;
+    background-position: center; 
+}
+
+nav{
+  background: linear-gradient(to right,
+  red , yellow , blue);
+}
+
+#Sitetitle{
+  color: White;
+}
+
+section{
+  background: linear-gradient(to right, red , yellow , blue);
+}
+
+hr {
+    height: 15px;
+    // background-color: red;
+    background-image: linear-gradient(90deg, red, yellow , blue);
+}
+
+#presentationDiv
+{
+  margin: 0 auto;
+  width:80%;
+}
